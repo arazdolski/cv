@@ -1,53 +1,38 @@
-# Aleksandr Razdolski
-**_DevOps Engineer_** <br>
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-[Email](mailto:aleksandr.razdolski@gmail.com) / [LinkedIn](https://www.linkedin.com/in/arazdolski/) / [GitHub](https://github.com/arazdolski/)
+## Getting Started
 
-## 🧑‍💻 Experience
+First, run the development server:
 
-**DevOps Engineer** @ [EveryPay](https://every-pay.com/) _(Feb 2022 - Present)_ <br>
-**_Technologies used:_** Python, Terraform, Cloudformation, ELK, Rsyslog, OpenSearch, Postgres, Docker, Chef
-  - Worked on the automated status page
-  - Implemented system and payment health monitoring
-  - Troubleshot missing log issues
-  - Built logical replication for Postgres
-  - Created autoscaling based on CloudWatch custom metrics
-  - Implemented OpenSearch user management tool
-  <br>
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-**Payment Analyst** @ [EveryPay](https://every-pay.com/) _(Mar 2021 - Feb 2022)_
-  - Created epics to integrate Apple Pay JS API, Coop Pank and Luminor OB APIs
-  - Analyzed payment issues
-  - Organised TPP certificate updates
-  - Improved UI
-<br>
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-**Project Manager** @ [Wallester](https://wallester.com/) _(Oct 2020 - Mar 2021)_
-  - Completed Business and Prepaid BINs project
-  - Created epic to implement online PIN change
-  - Worked on Visa BASE II testing
-  - Managed development team
-  - Onboarded clients
-<br>
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-**Junior QA Engineer** @ [Wallester](https://wallester.com/) _(Apr 2020 - Oct 2021)_ <br>
-**_Technologies used:_** Go, Agouti, AWS
-  - Made an automation testing plan
-  - Improved performance of automation testing
-  - Migrated from PhantomJS to Chromedriver
-<br>
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-## 🎓 Education
-**Tallinn University of Technology**<br>
-Bachelor's degree | Telematics and Smart Systems _(2017 - 2020)_
-<br>
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## 💬 Languages
-- 🇺🇸 English
-- 🇪🇪 Estonian
-- 🇷🇺 Russian
-<br>
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## ✨ Hobbies
-Mechanical keyboards, Auto racing, Cycling, Hardware DIY
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
