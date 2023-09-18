@@ -5,7 +5,7 @@ import path from "path";
 
 const Cv = ({ source }) => {
   return (
-    <div className="prose">
+    <div className="prose dark:prose-invert">
       <MDXRemote {...source} />
     </div>
   );
