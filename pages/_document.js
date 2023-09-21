@@ -11,7 +11,6 @@ export default function Document() {
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.arazdolski.xyz/" />
         <meta property="og:description" content="CV" />
-        <meta property="og:image" content="http://keeb.ee/public/icon.svg" />
       </Head>
       <body className="dark:bg-slate-950">
         <Main />
