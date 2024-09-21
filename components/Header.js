@@ -9,7 +9,7 @@ function Header() {
         <a href="https://github.com/arazdolski" className="mr-4">
           Github
         </a>
-        <a href="mailto:aleksandr.razdolski@gmail.com">Email</a>
+        <a href="mailto:me@arazdolski.xyz">Email</a>
       </div>
     </div>
   );
