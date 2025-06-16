@@ -11,7 +11,7 @@
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.8",
     "@tailwindcss/typography": "^0.5.16",
-    "eslint": "9.28.0",
+    "eslint": "9.29.0",
     "eslint-config-next": "^15.3.3",
     "next": "^15.3.3",
     "next-mdx-remote": "^5.0.0",
