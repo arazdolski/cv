@@ -18,7 +18,7 @@
     "postcss": "^8.5.10",
     "react": "^19.1.0",
     "react-dom": "^19.2.3",
-    "tailwindcss": "^4.2.2"
+    "tailwindcss": "^4.2.4"
   },
   "devDependencies": {
     "prettier": "3.8.3"
