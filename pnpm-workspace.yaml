@@ -1,0 +1,3 @@
+allowBuilds:
+  # postinstall only fetches a fallback binding; the native one is an optional dep
+  unrs-resolver: false
