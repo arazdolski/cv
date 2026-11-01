@@ -15,10 +15,10 @@ module.exports = {
       typography: {
         DEFAULT: {
           css: {
-            maxWidth: '900px',
-          }
-        }
-      }
+            maxWidth: "900px",
+          },
+        },
+      },
     },
   },
   plugins: [require("@tailwindcss/typography")],
